@@ -1,5 +1,5 @@
 ## Software Engineering Project
-*Hello, this repository is for creating a Web application using machine learning;
+*Hello, this repository is for creating a Web application using machine learning.*
 
 **Creators:**
 - Markin Mikhail, РИМ-120907;
